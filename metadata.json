@@ -1,0 +1,6 @@
+{
+  "name": "Navalha & Estilo - Agendamento de Barbearia",
+  "description": "Sistema de agendamento para barbearias com catálogo de serviços, escolha de horários, autenticação de clientes e painel administrativo para barbeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
